@@ -5,17 +5,44 @@ h1 {font-size:17px ;
 
 .Horiseon-Assignment {   
 background-color:rgb(63, 101, 132);
- font-weight:lighter; position:sticky;
-  height: 50px; padding:10px;color: white; margin-bottom:0px; 
-  box-shadow: 5px;}
+ font-weight:lighter; position:relative; width: 1300px; float:none; 
+  height: 80px;color: #ffffff;orientation: portrait}
 
-.images-SEO {
-  width:300px; float: left, display:left}
+.DMM {width: 103%; height: 25%;   position: absolute; }
 
 
-.SEO1 { background-color:dodgerblue;width: 550px;
-border: 50px; padding:40px; margin: 50px; color:white;}
-.myseo {width: 100%; height: 100px; left: 420px; border: 3px;  font-size: 28px; font-weight: lighter; inline-size: 230px; float:right; overflow-wrap: break-word;position:absolute; bottom: 25px; top: 25%}
-.text {width: 100%; height: 100px; left: 420px; border: 3px;  font-size: 13px; font-weight: lighter; inline-size: 230px; float:right; overflow-wrap: break-word;position:absolute; bottom: 25px; top: 37%}
+  .SEO1 { background-color:dodgerblue; 
+    top: 120px; width: 600px; position: relative; 
+    right:50px; border: 20px; height: 100px;
+     padding:40px; margin: 50px; color:white;}
 
-      
+.images-SEO {width:250px; height: 140px; 
+   position: relative; top: -20px;  
+   float: inline-start;}
+
+.myseo {width: 100%; height: 100px; 
+  left: 320px; border: 3px;  font-size: 28px; 
+  font-weight: lighter; inline-size: 300px; float:right;
+   overflow-wrap: break-word;position:absolute; bottom: 25px; top: 5%}
+
+.text {width: 100%; height: 100px; left: 320px; 
+  border: 3px;  font-size: 13px; font-weight: lighter;
+   inline-size: 300px; float:right; overflow-wrap: break-word;
+   position:absolute; bottom: 25px; top: 35%}
+
+.ORM1color {background-color: dodgerblue; 
+  top: 140px; width: 600px; position:absolute;  right: -50px; 
+  border: 20px; height: 120px; padding:40px; margin: 50px; color: white;}
+
+.image-ORM {width:250px; height:140px; top: -10px;
+   position:relative; float:inline-end;}
+
+.myorm {width: 100%; height: 100px; right: 320px; 
+  border: 3px;  font-size: 28px; font-weight: lighter; 
+  inline-size: 300px; float:left; 
+  overflow-wrap: break-word;position:absolute; bottom: 15px; top: 5%;}
+
+.text2 {width: 100%; height: 100px; 
+  right: 320px; border: 3px;  font-size: 13px; font-weight: lighter; 
+  inline-size: 300px; float:left; overflow-wrap: break-word;position:absolute; 
+  bottom: 15px; top: 35%}
