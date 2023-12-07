@@ -19,9 +19,9 @@ h4{font-size:17px ;
 .Horiseon-Assignment {   
 background-color:rgb(63, 101, 132);
  font-weight:lighter; position:sticky; width: auto; float:none; 
-  height: 50px;color: white;orientation: portrait}
+  height: 50px;color: white;orientation: portrait, display: inline-block}
 
-.DMM {width:79rem; height: 25%;   position: absolute; }
+  .DMM {width: 1247px; height: 25%;   position: absolute;display:block; }
 
 
   .SEO1 { background-color:dodgerblue; 
@@ -78,3 +78,5 @@ background-color:rgb(63, 101, 132);
   border: 3px;  font-size: 13px; font-weight: lighter;
    inline-size: 300px; float:right; overflow-wrap: break-word;
    position:absolute; bottom: 25px; top: 35%}  
+
+
