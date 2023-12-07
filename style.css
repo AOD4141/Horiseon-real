@@ -18,13 +18,12 @@ h4{font-size:17px ;
 
 .Horiseon-Assignment {   
 background-color:rgb(63, 101, 132);
- font-weight:lighter; position:sticky; width: auto; float:none; 
-  height: 50px;color: white;orientation: portrait, display: inline-block}
+ font-weight:lighter; position:absolute; width: auto; float:none; 
+  height: 50px; top: -10px; color: white;orientation: portrait; display: inline-block}
 
-  .DMM {width: 1247px; height: 25%;   position: absolute;display:block; }
+.DMM {width: auto; top: 40px; height: 120px;   position: absolute;display:inline-block; }
 
-
-  .SEO1 { background-color:dodgerblue; 
+.SEO1 { background-color:dodgerblue; 
     top: 120px; width: 600px; position: relative; 
     right:50px; border: 20px; height: 100px;
      padding:40px; margin: 50px; color:white;}
@@ -60,23 +59,38 @@ background-color:rgb(63, 101, 132);
   inline-size: 300px; float:left; overflow-wrap: break-word;position:absolute; 
   bottom: 25px; top: 35%}
 
-  .SMM1color{background-color:dodgerblue; 
+.SMM1color{background-color:dodgerblue; 
     top: 105px; width: 600px; position: relative; 
     right:90px; border: 20px; height: 100px;
      padding:40px; margin: 50px; color:white;}
 
-  .image-SMM{width:250px; height: 140px; 
+.image-SMM{width:250px; height: 140px; 
     position: relative; top: -20px;  
     float: inline-start;}
 
-    .mysmm{width: 100%; height: 100px; 
+.mysmm{width: 100%; height: 100px; 
       left: 320px; border: 3px;  font-size: 28px; 
       font-weight: lighter; inline-size: 300px; float:right;
        overflow-wrap: break-word;position:absolute; bottom: 25px; top: 5%}
 
- .text3{width: 100%; height: 100px; left: 320px; 
+.text3{width: 100%; height: 100px; left: 320px; 
   border: 3px;  font-size: 13px; font-weight: lighter;
    inline-size: 300px; float:right; overflow-wrap: break-word;
    position:absolute; bottom: 25px; top: 35%}  
 
+.BLS{background-color:aqua;width: 230px;  height: 900px; float: inline-end; float: right; color:black; position: relative; top: 70px; float: right;}
+    
+.LG{width:200px; height:200px; position:absolute; top:20px; float: left; left: 0px;}
+    .mylg{width:100px; height:100px; text-align: left; left: 30px; font-size:20px; font-weight: lighter; inline-size: 200px; position:absolute; top: 30px;}
+    .text4{width:100px; height: 100px; text-align:left; left: 30px;  font-size: 15px; font-weight: lighter;
+      inline-size: 180px; overflow-wrap: break-word; position:absolute;  top:180px}
 
+.BA{width:200px; height:200px; position:absolute; top:300px; float: left; left: 0px;}
+    .myba{width:100px; height:100px; text-align: left; left: 30px; font-size:20px; font-weight: lighter; inline-size: 200px; position:relative;  top: 300px;}
+      .text5{width:100px; height: 100px; text-align:left; left: 30px;  font-size: 15px; font-weight: lighter;
+        inline-size: 180px; overflow-wrap: break-word; position:absolute;  top:460px}
+
+.CM{width:200px; height:200px; position:absolute; top:580px; float: left; left: 0px;}
+        .mycm{width:100px; height:100px; text-align: left; left: 30px; font-size:20px; font-weight: lighter; inline-size: 200px; position:relative;  top: 490px;}
+        .text6{width:100px; height: 100px; text-align:left; left: 30px;  font-size: 15px; font-weight: lighter;
+          inline-size: 180px; overflow-wrap: break-word; position:absolute;  top:740px}
