@@ -1,6 +1,6 @@
 
 # Horiseon
-Horiseon is a marketing agency project that try to evaluate the impact search engine have on lead generation, brand awareness and cost management.
+Horiseon is a marketing agency project that try to evaluate how search engine in the social media age can be optimized to generate lead, create brand awareness and help in cost management of advertisement.
 
 
 ## Table of Contents
@@ -19,7 +19,7 @@ Search Engine Optimization, Online Reputation Management, Social Media Marketing
 
 ### Some of the services offered by Horiseon include:
 
-* Social media management
+* Social media marketing
 * Search engine optimization
 * Online reputation management
 * Content marketing

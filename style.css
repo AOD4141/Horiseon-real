@@ -1,3 +1,4 @@
+/* Title section */
 
 .Horiseon-Assignment {   
   background-color:rgb(63, 101, 132);
@@ -21,9 +22,12 @@
   300px; display:inline-block;position: relative; top:-20px}
 
 
+/* Digital marketing section */
 
 .Digital-marketing-section {width: 1243px; top: 78px; height: 570px; 
   float: left; left: 0px;  position: absolute; }
+
+/* Search engine optimization section */
 
 .Search-Engine-Optimization-section { background-color:rgb(23, 104, 185); 
     top: 520px; width: 940px; position: relative; 
@@ -43,6 +47,8 @@
    inline-size: 300px; float:right; 
    position:absolute;  top: 50px; }
 
+/* Online reputation management section */
+
 .Online-Reputation-Management-section {background-color:rgb(23, 104, 185); 
   top: 98px; width: 940px; position:relative;  left: -90px; 
   border: 20px; height: 120px; padding:40px; margin: 50px; color: white;}
@@ -59,6 +65,8 @@
    font-size: 13px; font-stretch:extra-expanded; font-weight: lighter;
   inline-size: 300px; float:left; 
   position:absolute;  top: 80px;}
+
+/* Social media marketing section */
 
 .Social-Media-Marketing-section{background-color:rgb(23, 104, 185); 
   top: 100px; width: 940px; position: relative; 
@@ -78,11 +86,15 @@
   inline-size: 300px; float:right; 
   position:absolute;  top: 50px;}  
 
+/* The container for lead generation, brand awareness and cost management */
+
 .Drivers-of-search-engine-optimization {background-color:rgba(40, 124, 192, 0.89); 
   bottom: 10px; padding: 2px; width: 205px; 
    height: 730px; float: inline-end; float: right; right: -218px; 
    color:white; position:absolute; top: -189px;}
-    
+   
+/* The lead generation section */
+
 .LG-image{width:200px; height:150px; position:absolute;
    top:20px; float: left; left: 0px;}
 
@@ -94,6 +106,8 @@
      font-size: 15px; font-weight: lighter;
     inline-size: 180px; overflow-wrap: break-word; 
     position:absolute;  top:130px;}
+
+/* The brand awareness section */
 
 .BA-image{width:200px; height:150px; position:absolute; 
   top:255px; float: left; left: 0px;}
@@ -107,6 +121,9 @@
         inline-size: 180px; overflow-wrap: break-word; 
         position:absolute;  top:360px}
 
+
+/* The cost management section */
+
 .CM-image{width:200px; height:150px; position:absolute; 
   top:480px; float: left; left: 0px;}
 
@@ -118,6 +135,8 @@
    font-size: 15px; font-weight: lighter;
   inline-size: 180px; overflow-wrap: break-word;
   position:absolute;  top:590px}
+
+/* The creator's section */
 
 .Developer{color:black;width:100px; font-size: 20px; 
   font-weight:bold; position:relative; inline-size: 300px; 
