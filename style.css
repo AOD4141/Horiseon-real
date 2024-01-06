@@ -1,17 +1,17 @@
 /* Title section */
 
 .Horiseon-Assignment {   
-  background-color:rgb(63, 101, 132);
-   font-weight:lighter; position:relative; width: 1243px; float: none; left: -10px;
-    height: 80px; top: -10px; color: white;orientation: portrait; display: inline-block}
+ position:absolute;margin:0px; ;width: 100%; height: 80px;
+ background-color:rgb(63, 101, 132);
+ font-weight:lighter;  color: white;}
 
 .Project-title{font-size:38px ; font-weight: bold; 
   text-align:left; left: 23px;;width: 
   300px; display:inline-block; position: relative; top:-20px}
 
 .Project-subtitle-SEO {font-size:22px ;font-weight: lighter;
-  text-align:start ;width: 
-  300px; display:inline-block;position: relative; top:-20px}
+  text-align:start ;width: 300px; display:inline-block;
+  position: relative; top:-20px}
 
 .Project-subtitle-ORM{font-size:22px ;font-weight: lighter;
   text-align:start ;width: 
@@ -24,120 +24,119 @@
 
 /* Digital marketing section */
 
-.Digital-marketing-section {width: 1243px; top: 78px; height: 570px; 
-  float: left; left: 0px;  position: absolute; }
+.Digital-marketing-section {position: absolute;width: 100%; top: 78px; height: 570px;    }
 
 /* Search engine optimization section */
 
-.Search-Engine-Optimization-section { background-color:rgb(23, 104, 185); 
-    top: 520px; width: 940px; position: relative; 
-    left:-52px; border: 20px; height: 100px;
+ .Search-Engine-Optimization-section { display:inline-block;background-color:rgb(23, 104, 185); 
+    top: 620px; width: 800px; position:absolute; 
+    left:-42px; border: 20px; height: 100px;
      padding:40px; margin: 50px; color:white;}
 
-.SEO-image {width:450px; height: 140px; 
-  position: relative; top: -20px;  
-  float: inline-start;}
+.SEO-image {width:400px; height: 150px; 
+  position: relative; top: -25px;  
+  float: left;left:-20px;}  
 
 .SEO-title {width: 500px; height: 200px;
-  right: 120px; border: 3px;  font-size: 34px; 
-  font-weight: lighter; inline-size: 400px; float:right;position:absolute; top: 10px}
+  right: 180px; border: 3px;  font-size: 34px; 
+  font-weight: lighter; inline-size: 250px; float:right;position:absolute; top: 10px;}
 
-.Content-of-SEO {width: 500px; height: 200px; right: 220px; 
-   font-size: 13px; font-stretch:extra-expanded; font-weight: lighter;
-   inline-size: 300px; float:right; 
-   position:absolute;  top: 50px; }
+.Content-of-SEO {width: 500px; height: 200px; right: 30px; 
+   font-size: 15px; font-stretch:extra-expanded; font-weight: lighter;
+   inline-size: 400px; float:right; 
+   position:absolute;  top: 80px; }
 
 /* Online reputation management section */
 
-.Online-Reputation-Management-section {background-color:rgb(23, 104, 185); 
-  top: 98px; width: 940px; position:relative;  left: -90px; 
+  .Online-Reputation-Management-section {background-color:rgb(23, 104, 185); 
+  top: 148px; width: 800px; position:absolute;  left: -50px; 
   border: 20px; height: 120px; padding:40px; margin: 50px; color: white;}
 
-.ORM-image {width:450px; height: 140px; 
+.ORM-image {width:400px; height: 160px; 
   position: relative; top: -20px;  
-  float:inline-end;}
+  float:right;right:-12px;}
 
 .ORM-title {width: 500px; height: 200px;
-  left: 40px; border: 3px;  font-size: 34px; 
+  left: 20px; border: 3px;  font-size: 34px; 
   font-weight: lighter; inline-size: 400px; float:left;position:absolute; top: 5px;}
 
-.Content-of-ORM {width: 500px; height: 200px; left: 40px; 
-   font-size: 13px; font-stretch:extra-expanded; font-weight: lighter;
-  inline-size: 300px; float:left; 
-  position:absolute;  top: 80px;}
+.Content-of-ORM {width: 500px; height: 200px; left: 20px; 
+   font-size: 15px; font-stretch:extra-expanded; font-weight: lighter;
+  inline-size: 400px; float:left; 
+  position:absolute;  top: 80px;} 
 
 /* Social media marketing section */
 
-.Social-Media-Marketing-section{background-color:rgb(23, 104, 185); 
-  top: 100px; width: 940px; position: relative; 
+  .Social-Media-Marketing-section{background-color:rgb(23, 104, 185); 
+  top: 110px; width: 800px; position: relative; 
   left:-90px; border: 20px; height: 100px;
    padding:40px; margin: 50px; color:white;}
 
-.SMM-image{width:450px; height: 140px; 
-  position: relative; top: -50px;  
+.SMM-image{width:400px; height: 150px; 
+  position: relative; top: -75px;  
   float: inline-start;left: -20px;}
 
 .SMM-title{width: 500px; height: 200px;
-  right: 120px; border: 3px;  font-size: 34px; 
+  right: 30px; border: 3px;  font-size: 34px; 
   font-weight: lighter; inline-size: 400px; float:right;position:absolute; top: 10px}
 
 .Content-of-SMM {width: 500px; height: 200px; 
-  right: 220px;  font-size:13px;  font-weight: lighter;
-  inline-size: 300px; float:right; 
-  position:absolute;  top: 50px;}  
+  right: 28px;  font-size:15px;  font-weight: lighter;
+  inline-size: 400px; float:right; 
+  position:absolute;  top: 50px;}    
 
 /* The container for lead generation, brand awareness and cost management */
 
 .Drivers-of-search-engine-optimization {background-color:rgba(40, 124, 192, 0.89); 
-  bottom: 10px; padding: 2px; width: 205px; 
-   height: 730px; float: inline-end; float: right; right: -218px; 
-   color:white; position:absolute; top: -189px;}
-   
+  bottom: 20px; padding: 2px; width: 290px; 
+   height: 730px; float: inline-end; float: right; right: -310px; 
+   color:white; position:absolute; top: -198px;}
+    
 /* The lead generation section */
 
-.LG-image{width:200px; height:150px; position:absolute;
+  .LG-image{width:300px; height:150px; position:absolute;
    top:20px; float: left; left: 0px;}
 
 .LG-title{width:100px; height:80px; text-align: left; 
-      left: 30px; font-size:20px; font-weight: lighter; 
-      inline-size: 200px; position:absolute; top: 20px;}
+      left: 75px; font-size:20px; font-weight: lighter; 
+      inline-size: 250px; position:absolute; top: 10px;}
 
 .Content-of-LG{width:100px; height: 80px; text-align:left; left: 30px; 
      font-size: 15px; font-weight: lighter;
-    inline-size: 180px; overflow-wrap: break-word; 
-    position:absolute;  top:130px;}
+    inline-size: 250px; overflow-wrap: break-word; 
+    position:absolute;  top:140px;}  
 
 /* The brand awareness section */
 
-.BA-image{width:200px; height:150px; position:absolute; 
-  top:255px; float: left; left: 0px;}
+  .BA-image{width:300px; height:150px; position:absolute; 
+  top:265px; float: left; left: 0px;}
 
 .BA-title{width:100px; height:80px; text-align: left; 
-      left: 30px; font-size:20px; font-weight: lighter;
-       inline-size: 200px; position:relative;  top: 250px;}
+      left: 75px; font-size:20px; font-weight: lighter;
+       inline-size: 250px; position:relative;  top: 250px;}
 
 .Content-of-BA{width:100px; height: 80px; text-align:left; left: 30px; 
          font-size: 15px; font-weight: lighter;
-        inline-size: 180px; overflow-wrap: break-word; 
-        position:absolute;  top:360px}
-
+        inline-size: 250px; overflow-wrap: break-word; 
+        position:absolute;  top:380px} 
+ 
 
 /* The cost management section */
-
-.CM-image{width:200px; height:150px; position:absolute; 
-  top:480px; float: left; left: 0px;}
+ 
+ .CM-image{width:300px; height:150px; position:absolute; 
+  top:495px; float: left; left: 0px;}
 
 .CM-title{width:100px; height:100px; text-align: left; 
-      left: 30px; font-size:20px; font-weight: lighter; 
-       inline-size: 200px; position:relative;  top: 400px;}
+      left: 75px; font-size:20px; font-weight: lighter; 
+       inline-size: 200px; position:relative;  top: 410px;} 
 
-.Content-of-CM{width:100px; height: 100px; text-align:left; left: 30px; 
+ .Content-of-CM{width:100px; height: 100px; text-align:left; left: 30px; 
    font-size: 15px; font-weight: lighter;
-  inline-size: 180px; overflow-wrap: break-word;
-  position:absolute;  top:590px}
+  inline-size: 250px; overflow-wrap: break-word;
+  position:absolute;  top:605px} 
 
 /* The creator's section */
 
-.Developer{color:black;width:100px; font-size: 20px; 
+ .Developer{color:black;width:100px; font-size: 20px; 
   font-weight:bold; position:relative; inline-size: 300px; 
-    text-align:right; right: 320px; top: 450px; }
+    text-align:right; right: 320px; top: 450px; }  
